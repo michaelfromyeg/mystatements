@@ -1,0 +1,12 @@
+{
+    "AEKJRNGAKNJG": {
+        "kind": "DEPOSIT",
+        "date": 0,
+        "amount": 1,
+        "description": "d",
+        "tags": [
+            "t"
+        ],
+        "metadata": {}
+    }
+}

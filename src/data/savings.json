@@ -1,0 +1,132 @@
+{
+    "UC532TFR-FR": {
+      "kind": "DEPOSIT",
+      "date": 4,
+      "amount": 3,
+      "description": "",
+      "tags": [],
+      "metadata": {}
+    },
+    "TD MUTUAL FUNDS TFS": {
+      "kind": "WITHDRAWL",
+      "date": 5,
+      "amount": 4,
+      "description": "",
+      "tags": [],
+      "metadata": {}
+    },
+    "BALANCE FORWARD": {
+        "kind": "START",
+        "date": 2,
+        "amount": 3,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "STARTING BALANCE": {
+        "kind": "START",
+        "date": 2,
+        "amount": 3,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "FRM": {
+        "kind": "DEPOSIT",
+        "date": 4,
+        "amount": 3,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "MOBILE DEPOSIT": {
+        "kind": "DEPOSIT",
+        "date": 3,
+        "amount": 2,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "TFR-TO": {
+        "kind": "WITHDRAWL",
+        "date": 4,
+        "amount": 3,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "SEND E-TFR": {
+        "kind": "WITHDRAWL",
+        "date": 4,
+        "amount": 3,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "TD ATM DEP": {
+        "kind": "DEPOSIT",
+        "date": 5,
+        "amount": 4,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "TRF TO": {
+        "kind": "WITHDRAWL",
+        "date": 4,
+        "amount": 3,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "TFR-FR": {
+        "kind": "DEPOSIT",
+        "date": 4,
+        "amount": 3,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "INTEREST CREDIT": {
+        "kind": "CREDIT",
+        "date": 3,
+        "amount": 2,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "WITHDRAWL FEES": {
+        "kind": "FEES",
+        "date": 3,
+        "values": 2,
+        "description": "",
+        "tags": [],
+        "metadata": {}
+    },
+    "KALERJNEKRHJN": {
+        "kind": "DEPOSIT",
+        "date": 2,
+        "amount": 3,
+        "description": "This is an example description.",
+        "tags": [
+            "subscriptions",
+            "uber",
+            "food"
+        ],
+        "metadata": {
+            "subscription": "monthly"
+        }
+    },
+    "AKEJNREKBNAEKJBN": {
+        "kind": "DEPOSIT",
+        "date": 3,
+        "amount": 5,
+        "description": "This is my example description.",
+        "tags": [
+            "my first tag",
+            " my second tag",
+            " my third tag"
+        ],
+        "metadata": {}
+    }
+}
